@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Dx9 Library</Name>
+  <Header>namespace tycho
+{
+namespace dx9
+{
+
+    $(ClassDef)
+
+} // end namespace
+} // end namespace</Header>
+  <Source>namespace tycho
+{
+namespace dx9
+{
+
+    //--------------------------------------------------------------------
+
+
+
+    //--------------------------------------------------------------------
+
+
+} // end namespace
+} // end namespace</Source>
+  <SrcDir>./</SrcDir>
+  <IncDir>./</IncDir>
+  <HdrIncludes>#include "dx9/dx9_abi.h"
+#include "dx9/forward_decls.h"
+</HdrIncludes>
+  <SrcIncludes />
+  <ABI>TYCHO_DX9_ABI</ABI>
+</ProjectSettings>
