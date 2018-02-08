@@ -7,10 +7,10 @@
 //////////////////////////////////////////////////////////////////////////////
 // INCLUDES
 //////////////////////////////////////////////////////////////////////////////
-#include "dx9/vertex_buffer_allocator.h"
-#include "dx9/d3d_utils.h"
-#include "dx9/render_interface.h"
-#include "dx9/resource_tracker.h"
+#include "graphics_dx9/vertex_buffer_allocator.h"
+#include "graphics_dx9/d3d_utils.h"
+#include "graphics_dx9/render_interface.h"
+#include "graphics_dx9/resource_tracker.h"
 #include "core/memory.h"
 #include "core/debug/utilities.h"
 

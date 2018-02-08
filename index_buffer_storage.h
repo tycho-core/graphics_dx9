@@ -13,12 +13,12 @@
 //////////////////////////////////////////////////////////////////////////////
 // INCLUDES
 //////////////////////////////////////////////////////////////////////////////
-#include "dx9/dx9_abi.h"
+#include "graphics_dx9/dx9_abi.h"
 #include "graphics/index_buffer.h"
 #include "graphics/index_buffer_storage.h"
-#include "dx9/common.h"
-#include "dx9/index_buffer_allocator.h"
-#include "dx9/buffer_storage.h"
+#include "graphics_dx9/common.h"
+#include "graphics_dx9/index_buffer_allocator.h"
+#include "graphics_dx9/buffer_storage.h"
 
 //////////////////////////////////////////////////////////////////////////////
 // CLASS

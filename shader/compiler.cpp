@@ -9,8 +9,8 @@
 //////////////////////////////////////////////////////////////////////////////
 #include "compiler.h"
 #include "core/debug/assert.h"
-#include "dx9/render_interface.h"
-#include "dx9/program_config_options.h"
+#include "graphics_dx9/render_interface.h"
+#include "graphics_dx9/program_config_options.h"
 #include "core/console.h"
 //////////////////////////////////////////////////////////////////////////////
 // CLASS

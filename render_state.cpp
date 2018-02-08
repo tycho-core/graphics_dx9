@@ -8,7 +8,7 @@
 // INCLUDES
 //////////////////////////////////////////////////////////////////////////////
 #include "render_state.h"
-#include "dx9/render_interface.h"
+#include "graphics_dx9/render_interface.h"
 #include "core/memory.h"
 #include "core/debug/assert.h"
 

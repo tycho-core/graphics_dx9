@@ -8,8 +8,8 @@
 // INCLUDES
 //////////////////////////////////////////////////////////////////////////////
 #include "texture.h"
-#include "dx9/render_interface.h"
-#include "dx9/d3d_utils.h"
+#include "graphics_dx9/render_interface.h"
+#include "graphics_dx9/d3d_utils.h"
 #include "image/types.h"
 #include "image/image.h"
 #include "image/canvas.h"

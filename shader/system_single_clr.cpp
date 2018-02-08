@@ -11,8 +11,8 @@
 #include "graphics/shader/parameter_buffer_layout.h"
 #include "graphics/shader/parameter_buffer_view.h"
 #include "graphics/shader/parameter_buffer.h"
-#include "dx9/render_interface.h"
-#include "dx9/shader/compiler.h"
+#include "graphics_dx9/render_interface.h"
+#include "graphics_dx9/shader/compiler.h"
 #include "math/matrix4x4.h"
 #include "math/vector4.h"
 

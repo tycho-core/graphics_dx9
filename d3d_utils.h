@@ -13,10 +13,10 @@
 //////////////////////////////////////////////////////////////////////////////
 // INCLUDES
 //////////////////////////////////////////////////////////////////////////////
-#include "dx9/dx9_abi.h"
+#include "graphics_dx9/dx9_abi.h"
 #include "graphics/format.h"
 #include "graphics/render_op.h"
-#include "dx9/common.h"
+#include "graphics_dx9/common.h"
 #include "core/colour/rgba.h"
 
 

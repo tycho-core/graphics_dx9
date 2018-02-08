@@ -9,8 +9,8 @@
 //////////////////////////////////////////////////////////////////////////////
 #include "vertex_declaration.h"
 #include "graphics/vertex_format.h"
-#include "dx9/d3d_types.h"
-#include "dx9/render_interface.h"
+#include "graphics_dx9/d3d_types.h"
+#include "graphics_dx9/render_interface.h"
 #include "core/memory.h"
 
 //////////////////////////////////////////////////////////////////////////////

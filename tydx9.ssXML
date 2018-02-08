@@ -26,8 +26,8 @@ namespace dx9
 } // end namespace</Source>
   <SrcDir>./</SrcDir>
   <IncDir>./</IncDir>
-  <HdrIncludes>#include "dx9/dx9_abi.h"
-#include "dx9/forward_decls.h"
+  <HdrIncludes>#include "graphics_dx9/dx9_abi.h"
+#include "graphics_dx9/forward_decls.h"
 </HdrIncludes>
   <SrcIncludes />
   <ABI>TYCHO_DX9_ABI</ABI>

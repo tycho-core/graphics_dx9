@@ -13,14 +13,14 @@
 //////////////////////////////////////////////////////////////////////////////
 // INCLUDES
 //////////////////////////////////////////////////////////////////////////////
-#include "dx9/dx9_abi.h"
-#include "dx9/d3d_types.h"
-#include "dx9/index_buffer_allocator.h"
-#include "dx9/vertex_buffer_allocator.h"
-#include "dx9/vertex_declaration_factory.h"
-#include "dx9/resource_tracker.h"
-#include "dx9/render_state.h"
-#include "dx9/shader/compiler.h"
+#include "graphics_dx9/dx9_abi.h"
+#include "graphics_dx9/d3d_types.h"
+#include "graphics_dx9/index_buffer_allocator.h"
+#include "graphics_dx9/vertex_buffer_allocator.h"
+#include "graphics_dx9/vertex_declaration_factory.h"
+#include "graphics_dx9/resource_tracker.h"
+#include "graphics_dx9/render_state.h"
+#include "graphics_dx9/shader/compiler.h"
 #include "graphics/render_interface.h"
 #include "graphics/adapter.h"
 #include "image/forward_decls.h"

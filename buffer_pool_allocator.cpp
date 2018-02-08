@@ -8,8 +8,8 @@
 // INCLUDES
 //////////////////////////////////////////////////////////////////////////////
 #include "buffer_pool_allocator.h"
-#include "dx9/render_interface.h"
-#include "dx9/d3d_utils.h"
+#include "graphics_dx9/render_interface.h"
+#include "graphics_dx9/d3d_utils.h"
 #include "core/memory.h"
 #include "core/string.h"
 #include "core/debug/utilities.h"

@@ -8,7 +8,7 @@
 // INCLUDES
 //////////////////////////////////////////////////////////////////////////////
 #include "resource_tracker.h"
-#include "dx9/program_config_options.h"
+#include "graphics_dx9/program_config_options.h"
 #include "core/program_config.h"
 #include "core/globals.h"
 #include "core/string.h"

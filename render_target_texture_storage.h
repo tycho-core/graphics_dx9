@@ -13,10 +13,10 @@
 //////////////////////////////////////////////////////////////////////////////
 // INCLUDES
 //////////////////////////////////////////////////////////////////////////////
-#include "dx9/dx9_abi.h"
-#include "dx9/forward_decls.h"
-#include "dx9/texture.h"
-#include "dx9/texture_storage_base.h"
+#include "graphics_dx9/dx9_abi.h"
+#include "graphics_dx9/forward_decls.h"
+#include "graphics_dx9/texture.h"
+#include "graphics_dx9/texture_storage_base.h"
 #include "graphics/render_target_texture.h"
 
 //////////////////////////////////////////////////////////////////////////////

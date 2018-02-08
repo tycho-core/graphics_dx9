@@ -8,8 +8,8 @@
 // INCLUDES
 //////////////////////////////////////////////////////////////////////////////
 #include "render_target_texture_storage.h"
-#include "dx9/render_interface.h"
-#include "dx9/resource_tracker.h"
+#include "graphics_dx9/render_interface.h"
+#include "graphics_dx9/resource_tracker.h"
 
 //////////////////////////////////////////////////////////////////////////////
 // CLASS
